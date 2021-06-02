@@ -1,0 +1,4 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 1 , pretul total fiind 50 ;
+Produsele cumparate sunt :
+
+Nume: Roast Turkey with Herbed Oyster Stuffing and Giblet Gravy  ,Rating: 3.75 ,Calorii: 4084 ,Proteine: 474 ,Grasimi: 213 ,Sodiu: 2392 ,Pretul: 50

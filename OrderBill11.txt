@@ -1,0 +1,4 @@
+Orderul a fost plasat de catre userul 6 6 , varsta 6 in data de 2/6/2021 la ora 1 , pretul total fiind 58 ;
+Produsele cumparate sunt :
+
+Nume: Restorative Beef Broth  ,Rating: 3.75 ,Calorii: 26 ,Proteine: 1 ,Grasimi: 2 ,Sodiu: 8 ,Pretul: 58

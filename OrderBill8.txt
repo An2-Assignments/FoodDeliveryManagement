@@ -1,0 +1,5 @@
+Orderul a fost plasat de catre userul 4 4 , varsta 4 in data de 2/6/2021 la ora 1 , pretul total fiind 87 ;
+Produsele cumparate sunt :
+
+Nume: Red Pepper Sauce  ,Rating: 4.375 ,Calorii: 24 ,Proteine: 1 ,Grasimi: 0 ,Sodiu: 253 ,Pretul: 62
+Nume: South American-Style Jícama and Orange Salad  ,Rating: 3.125 ,Calorii: 26 ,Proteine: 1 ,Grasimi: 0 ,Sodiu: 364 ,Pretul: 25

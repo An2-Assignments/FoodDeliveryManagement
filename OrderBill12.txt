@@ -1,0 +1,7 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 1 , pretul total fiind 174 ;
+Produsele cumparate sunt :
+
+Nume: Quick & Spicy Asian Pickles  ,Rating: 5.0 ,Calorii: 23 ,Proteine: 1 ,Grasimi: 0 ,Sodiu: 128 ,Pretul: 48
+Nume: Steamed Mussels with Tomato and Chorizo Broth  ,Rating: 5.0 ,Calorii: 25 ,Proteine: 2 ,Grasimi: 1 ,Sodiu: 65 ,Pretul: 42
+Nume: Steamed Mussels with Tomato and Chorizo Broth  ,Rating: 5.0 ,Calorii: 25 ,Proteine: 2 ,Grasimi: 1 ,Sodiu: 65 ,Pretul: 42
+Nume: Steamed Mussels with Tomato and Chorizo Broth  ,Rating: 5.0 ,Calorii: 25 ,Proteine: 2 ,Grasimi: 1 ,Sodiu: 65 ,Pretul: 42

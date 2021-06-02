@@ -1,0 +1,6 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 1 , pretul total fiind 286 ;
+Produsele cumparate sunt :
+
+Nume: Fresh Corn Tortillas  ,Rating: 3.75 ,Calorii: 23 ,Proteine: 1 ,Grasimi: 2 ,Sodiu: 61 ,Pretul: 79
+Nume: Composite2  ,Rating: 4.375 ,Calorii: 50 ,Proteine: 4 ,Grasimi: 2 ,Sodiu: 150 ,Pretul: 109
+Nume: Composite3  ,Rating: 0.0 ,Calorii: 27 ,Proteine: 0 ,Grasimi: 0 ,Sodiu: 2293 ,Pretul: 98

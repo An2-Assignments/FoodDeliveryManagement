@@ -1,0 +1,7 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 1 , pretul total fiind 44 ;
+Produsele cumparate sunt :
+
+Nume: Escolar Fish with Mango and Shrimp Ravioli  ,Rating: 3.75 ,Calorii: 5221 ,Proteine: 59 ,Grasimi: 312 ,Sodiu: 832 ,Pretul: 11
+Nume: Escolar Fish with Mango and Shrimp Ravioli  ,Rating: 3.75 ,Calorii: 5221 ,Proteine: 59 ,Grasimi: 312 ,Sodiu: 832 ,Pretul: 11
+Nume: Escolar Fish with Mango and Shrimp Ravioli  ,Rating: 3.75 ,Calorii: 5221 ,Proteine: 59 ,Grasimi: 312 ,Sodiu: 832 ,Pretul: 11
+Nume: Escolar Fish with Mango and Shrimp Ravioli  ,Rating: 3.75 ,Calorii: 5221 ,Proteine: 59 ,Grasimi: 312 ,Sodiu: 832 ,Pretul: 11

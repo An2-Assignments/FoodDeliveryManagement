@@ -1,0 +1,3 @@
+Clientul care a comandat mai mult de 2 orderuri si valoarea orderului a fost mai mare decat 20 are idul 0 ;
+Clientul care a comandat mai mult de 2 orderuri si valoarea orderului a fost mai mare decat 20 are idul 1 ;
+Clientul care a comandat mai mult de 2 orderuri si valoarea orderului a fost mai mare decat 20 are idul 3 ;

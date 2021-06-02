@@ -1,0 +1,5 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 2 , pretul total fiind 103 ;
+Produsele cumparate sunt :
+
+Nume: Barbecued Shrimp  ,Rating: 3.75 ,Calorii: 23 ,Proteine: 4 ,Grasimi: 0 ,Sodiu: 205 ,Pretul: 71
+Nume: Cilantro-Tomato Salsa  ,Rating: 3.75 ,Calorii: 23 ,Proteine: 1 ,Grasimi: 0 ,Sodiu: 7 ,Pretul: 32

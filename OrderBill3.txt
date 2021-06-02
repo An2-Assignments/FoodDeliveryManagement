@@ -1,0 +1,5 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 1 , pretul total fiind 71 ;
+Produsele cumparate sunt :
+
+Nume: Birthday Party Paella  ,Rating: 5.0 ,Calorii: 6996 ,Proteine: 264 ,Grasimi: 651 ,Sodiu: 1018 ,Pretul: 60
+Nume: Escolar Fish with Mango and Shrimp Ravioli  ,Rating: 3.75 ,Calorii: 5221 ,Proteine: 59 ,Grasimi: 312 ,Sodiu: 832 ,Pretul: 11

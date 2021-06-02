@@ -1,0 +1,5 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 2/6/2021 la ora 1 , pretul total fiind 196 ;
+Produsele cumparate sunt :
+
+Nume: Composite3  ,Rating: 0.0 ,Calorii: 27 ,Proteine: 0 ,Grasimi: 0 ,Sodiu: 2293 ,Pretul: 98
+Nume: Composite3  ,Rating: 0.0 ,Calorii: 27 ,Proteine: 0 ,Grasimi: 0 ,Sodiu: 2293 ,Pretul: 98
