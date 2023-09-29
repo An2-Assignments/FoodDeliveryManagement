@@ -1,0 +1,4 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 5/6/2021 la ora 17 , pretul total fiind 48 ;
+Produsele cumparate sunt :
+
+Nume: Quick & Spicy Asian Pickles  ,Rating: 5.0 ,Calorii: 23 ,Proteine: 1 ,Grasimi: 0 ,Sodiu: 128 ,Pretul: 48

@@ -1,0 +1,5 @@
+Orderul a fost plasat de catre userul 2 2 , varsta 2 in data de 5/6/2021 la ora 17 , pretul total fiind 88 ;
+Produsele cumparate sunt :
+
+Nume: Beef Stock  ,Rating: 4.375 ,Calorii: 24 ,Proteine: 4 ,Grasimi: 1 ,Sodiu: 87 ,Pretul: 26
+Nume: Red Pepper Sauce  ,Rating: 4.375 ,Calorii: 24 ,Proteine: 1 ,Grasimi: 0 ,Sodiu: 253 ,Pretul: 62
